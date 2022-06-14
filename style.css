@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#slider{
+	background-image: url(1.jpg);
+	height: 650px;
+	width: 100%;
+	background-size: cover;
+	
+}
+.one{
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 650px;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	padding: 
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
+li{
+	padding: 5px;
+	font-size: 20px;
+	display: inline;
+
+
+}
+li a:hover{
+	color: red;
+}
+nav{
+	background-color: transparent;
+	height: 50px;
+}
+.main{
+	justify-content: space-between;
+	display: flex;
+}
+.two{
+	text-align: center;
+	color:white;
+}
+h1{
+	letter-spacing: 8px;
+}
+.two p{
+	word-spacing: 10px;
+}
+.dore1{
+	height: 50px;
+	width: 150px;
+	font-size: 15px;
+	color: black;
+	background-color: yellow;
+	border-radius: 20px;
+	border-color: red
+
+}
+.dore2{
+	height: 50px;
+	width: 150px;
+	font-size: 15px;
+	color: white;
+	background-color: transparent;
+	border-color: yellow;
+	border-radius: 20px;
+	margin-left: 20px;
+
+}
+
+.dore1:hover{
+	background-color: transparent;
+	color: lightblue;
+
+}
+.dore2:hover{
+	background-color: yellow;
+	color: blue;
+}
+.three h1{
+	text-align: center;
+	color: white;
+}
+.four{
+	height: 350px;
+	width:100%;
+	
+}
+.four img{
+	height:170px;
+	width: 100%;
+	background-size: cover;
+
+}
+.four{
+	text-align: center;
+}
+ 
